@@ -1,8 +1,8 @@
-# Project Name
+# 24x7ai
 
-> Short description of the project.
+> Run coding harness 24x7 in your vps. 1 harness, 1 vps, 1.sh setup.
 
-**Website:** https://example.com  
+**Website:** 
 **Original Repository:** https://github.com/sahalhes/24x7ai (if applicable)
 
 ## Ownership & Founders Agreement
@@ -28,6 +28,5 @@ Any change in ownership must be agreed upon by all affected founders and updated
 
 ## License
 
-**License:** [Apache-2.0]
-
-See [LICENSE](./LICENSE) for the full license terms.
+The license for this project is defined in the [`LICENSE`](./LICENSE) file.
+Project owners are responsible for selecting and maintaining the appropriate license for their project.
