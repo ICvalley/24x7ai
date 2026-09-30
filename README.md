@@ -2,8 +2,8 @@
 
 > Run coding harness 24x7 in your vps. 1 harness, 1 vps, 1.sh setup.
 
-**Website:** 
-**Original Repository:** https://github.com/sahalhes/24x7ai (if applicable)
+**Website:** [24x7ai]() \
+**Original Repository:** [github](https://github.com/sahalhes/24x7ai) (if applicable)
 
 ## Ownership & Founders Agreement
 
